@@ -56,6 +56,9 @@ GitHub Actions publishes the site to GitHub Pages on pushes to the `main` branch
 - [SMPTE 244M-2003 - Bit-parallel digital interface for NTSC composite video signals](docs/video_formats/SMPTE-244M-2003/SMPTE-244M-2003.md)  
 	Defines a bit-parallel digital interface and sampling structure for encoded NTSC composite video. Covers 525-line, 59.94 Hz NTSC systems sampled at four times colour subcarrier frequency.
 
+- [SMPTE 272M-1994 - Formatting AES/EBU audio and auxiliary data into digital video ancillary data space](docs/video_formats/SMPTE-272M-1994/SMPTE-272M-1994.md)  
+	Defines how AES/EBU digital audio, auxiliary data, and associated control information are mapped into the ancillary data space of serial digital video. Covers embedding of up to 16 audio channels in component and composite SDI streams.
+
 ### Video metadata
 
 - [ANSI/CTA-608-E S-2019 - Line 21 Data Services](docs/video_metadata/ANSI-CTA-608-E-S-2019/ANSI-CTA-608-E-S-2019.md)  

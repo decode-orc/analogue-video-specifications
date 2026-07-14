@@ -99,6 +99,14 @@ GitHub Actions publishes the site to GitHub Pages on pushes to the `main` branch
 - [IEC 60857:1986 Amendment 2 - Laservision NTSC](docs/laserdisc/IEC-60857-1986-Laservision-NTSC-Amendment-2/IEC-60857-1986-Laservision-NTSC-Amendment-2.md)  
 	Updates NTSC Laservision mechanical and optical requirements and adds provisions related to digital audio implementation. Covers NTSC LaserDisc disc construction and extended format details.
 
+### Compact Disc
+
+- [ECMA-130 - Data interchange on read-only 120 mm optical data disks (CD-ROM)](docs/efm/ECMA-130/ECMA-130.md)  
+	Specifies the mechanical, physical, and optical characteristics of read-only 120 mm optical data disks (CD-ROM), together with the recording format: sector structure, EDC/ECC, CIRC error correction, scrambling, and eight-to-fourteen (EFM) channel coding.
+
+- [IEC 60908:1999 - Audio recording: Compact disc digital audio system](docs/efm/IEC-60908-1999/IEC-60908-1999.md)  
+	Specifies the compact disc digital audio system: disc mechanical and optical parameters, high-frequency and tracking signals, eight-to-fourteen modulation (EFM), CIRC error correction, and the subcode control and display system including CD Graphics and CD TEXT modes.
+
 ### VHS
 
 - [SMPTE 32M-2004 - Video Recording — 1/2-in Type H — Cassette, Tape and Records](docs/vhs/SMPTE-32M-2004/markdown.md)  

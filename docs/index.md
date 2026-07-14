@@ -36,6 +36,11 @@ Use the navigation to browse the available specifications by document family.
 - [IEC 60857:1986 Amendment 1 - Laservision NTSC](laserdisc/IEC-60857-1986-Laservision-NTSC-Amendment-1/IEC-60857-1986-Laservision-NTSC-Amendment-1.md)
 - [IEC 60857:1986 Amendment 2 - Laservision NTSC](laserdisc/IEC-60857-1986-Laservision-NTSC-Amendment-2/IEC-60857-1986-Laservision-NTSC-Amendment-2.md)
 
+### Compact Disc
+
+- [ECMA-130 - Data interchange on read-only 120 mm optical data disks (CD-ROM)](efm/ECMA-130/ECMA-130.md)
+- [IEC 60908:1999 - Audio recording: Compact disc digital audio system](efm/IEC-60908-1999/IEC-60908-1999.md)
+
 ### VHS
 
 - [SMPTE 32M-2004 - Video Recording — 1/2-in Type H — Cassette, Tape and Records](vhs/SMPTE-32M-2004/markdown.md)

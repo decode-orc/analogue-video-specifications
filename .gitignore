@@ -1,2 +1,5 @@
 no-dist/
 site/
+
+# macOS
+.DS_Store

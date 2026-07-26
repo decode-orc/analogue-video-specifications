@@ -99,6 +99,9 @@ GitHub Actions publishes the site to GitHub Pages on pushes to the `main` branch
 - [IEC 60857:1986 Amendment 2 - Laservision NTSC](docs/laserdisc/IEC-60857-1986-Laservision-NTSC-Amendment-2/IEC-60857-1986-Laservision-NTSC-Amendment-2.md)  
 	Updates NTSC Laservision mechanical and optical requirements and adds provisions related to digital audio implementation. Covers NTSC LaserDisc disc construction and extended format details.
 
+- [US 4,485,483 - FM stereophonic system incorporating companding of difference signal](docs/laserdisc/US4485483-2-FM-Stereophonic-System-Incorporating-Companding-of-Difference-Signal/us4485483.md)  
+	Patent describing an FM stereophonic broadcasting system in which the L-R difference signal is compressed and carried on a quadrature-phased subcarrier alongside the conventional difference signal, then complementarily expanded at the receiver. Covers the composite baseband arrangement, transmitter and receiver block diagrams, and the resulting signal-to-noise and coverage improvements, while remaining compatible with existing monophonic and biphonic receivers.
+
 ### Compact Disc
 
 - [ECMA-130 - Data interchange on read-only 120 mm optical data disks (CD-ROM)](docs/efm/ECMA-130/ECMA-130.md)  

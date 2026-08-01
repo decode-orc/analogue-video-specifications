@@ -27,6 +27,12 @@ Use the navigation to browse the available specifications by document family.
 - [ITU-T J.63 - Insertion of test signals in the field-blanking interval of monochrome and colour television signals](video_metadata/T-REC-J-63-1990/T-REC-J-63-1990.md)
 - [Vertical Interval Test Signals - NTSC and PAL definitions](video_metadata/VITS/index.md)
 
+### Teletext
+
+- [Broadcast Teletext Specification 1976 - Joint BBC/IBA/BREMA specification for the UK Teletext system](teletext/BBC-Broadcast-Teletext-1976/BBC-Broadcast-Teletext-1976.md)
+- [ETSI EN 300 706 V1.2.1 - Enhanced Teletext specification](teletext/ETSI-EN-300-706-2003/ETSI-EN-300-706-2003.md)
+- [ITU-R BT.653-3 - Teletext systems](teletext/BT-653-3-1998/BT-653-3-1998.md)
+
 ### LaserDisc and Laservision
 
 - [IEC 60856:1986 - Laservision PAL](laserdisc/IEC-60856-1986-Laservision-PAL/IEC-60856-1986-Laservision-PAL.md)

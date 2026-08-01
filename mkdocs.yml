@@ -51,6 +51,10 @@ nav:
         - Overview: video_metadata/VITS/index.md
         - NTSC VITS Definitions: video_metadata/VITS/NTSC-VITS.md
         - PAL VITS Definitions: video_metadata/VITS/PAL-VITS.md
+  - Teletext:
+      - Broadcast Teletext Specification 1976: teletext/BBC-Broadcast-Teletext-1976/BBC-Broadcast-Teletext-1976.md
+      - ETSI EN 300 706 V1.2.1 Enhanced Teletext specification: teletext/ETSI-EN-300-706-2003/ETSI-EN-300-706-2003.md
+      - ITU-R BT.653-3 Teletext systems: teletext/BT-653-3-1998/BT-653-3-1998.md
   - LaserDisc and Laservision:
       - IEC 60856:1986 Laservision PAL: laserdisc/IEC-60856-1986-Laservision-PAL/IEC-60856-1986-Laservision-PAL.md
       - IEC 60856:1986 Amendment 1: laserdisc/IEC-60856-1986-Laservision-PAL-Amendment-1/IEC-60856-1986-Laservision-PAL-Amendment-1.md

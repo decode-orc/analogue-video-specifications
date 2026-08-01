@@ -79,6 +79,17 @@ GitHub Actions publishes the site to GitHub Pages on pushes to the `main` branch
 - [Vertical Interval Test Signals - NTSC and PAL definitions](docs/video_metadata/VITS/index.md)  
 	Documents [NTSC](docs/video_metadata/VITS/NTSC-VITS.md) and [PAL](docs/video_metadata/VITS/PAL-VITS.md) VITS waveforms, including NTC-7, FCC, VIRS, ITU, and UK national insertion test signals. The waveform diagrams are generated from YAML definitions in `resources/definitions/vits/` using `scripts/generate-vits-diagrams`.
 
+### Teletext
+
+- [Broadcast Teletext Specification 1976 - Joint BBC/IBA/BREMA specification for the UK Teletext system](docs/teletext/BBC-Broadcast-Teletext-1976/BBC-Broadcast-Teletext-1976.md)  
+	Defines the Teletext system broadcast in the UK by the BBC and the Independent Television networks, as used by the Ceefax and Oracle services. Covers the data-line waveform, bit rate and timing within the field-blanking interval, Hamming-coded magazine, page and row addressing, page-header control bits and transmission sequencing, and the page display model including the alphanumerics and graphics character sets, display and background colour, double height, boxing, flash, conceal, and hold graphics.
+
+- [ETSI EN 300 706 V1.2.1 - Enhanced Teletext specification](docs/teletext/ETSI-EN-300-706-2003/ETSI-EN-300-706-2003.md)  
+	Specifies World System Teletext (CCIR System B) for 625-line, 50-field television systems, defining presentation Levels 1, 1.5, 2.5 and 3.5. Covers the data-line signalling and packet structure, odd parity, Hamming 8/4 and Hamming 24/18 error protection, page, magazine and service organisation, the coding of every packet type including X/26, X/27, X/28, M/29 and 8/30, spacing and non-spacing attributes, the colour map and side panels, objects, Dynamically Re-definable Character Sets (DRCS), the Latin, Cyrillic, Greek, Arabic and Hebrew character sets with their national option sub-sets, and the FLOF and TOP navigation systems.
+
+- [ITU-R BT.653-3 - Teletext systems](docs/teletext/BT-653-3-1998/BT-653-3-1998.md)  
+	Recommends four teletext systems (A, B, C and D) for use with the television systems of ITU-R BT.470, and describes them against a layered ISO reference model. Tabulates the essential elements of each system for both 625/50 and 525/60 television systems, including bit rate, data amplitude and positioning, framing and error protection, addressing and page classification, and lists the alphabet and character set repertoires along with the alphanumeric, mosaic, DRCS, geometric, photographic and musical source-coding modes.
+
 ### LaserDisc and Laservision
 
 - [IEC 60856:1986 - Laservision PAL](docs/laserdisc/IEC-60856-1986-Laservision-PAL/IEC-60856-1986-Laservision-PAL.md)  

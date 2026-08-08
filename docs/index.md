@@ -30,8 +30,11 @@ Use the navigation to browse the available specifications by document family.
 ### Teletext
 
 - [Broadcast Teletext Specification 1976 - Joint BBC/IBA/BREMA specification for the UK Teletext system](teletext/BBC-Broadcast-Teletext-1976/BBC-Broadcast-Teletext-1976.md)
+- [CEA-516 S-2013 - Joint EIA/CVCC Recommended Practice for Teletext: North American Basic Teletext Specification (NABTS)](teletext/CEA-516_S-2013/CEA-516_S-2013.md)
 - [ETSI EN 300 706 V1.2.1 - Enhanced Teletext specification](teletext/ETSI-EN-300-706-2003/ETSI-EN-300-706-2003.md)
+- [FIPS PUB 121 - Videotex/Teletext Presentation Level Protocol Syntax (North American PLPS)](teletext/FIPS-121/FIPS-121.md)
 - [ITU-R BT.653-3 - Teletext systems](teletext/BT-653-3-1998/BT-653-3-1998.md)
+- [ITU-T T.101 (11/1988) - International interworking for Videotex services](teletext/ITU-T_T-101-1988-11/ITU-T_T-101-1988-11.md)
 
 ### LaserDisc and Laservision
 

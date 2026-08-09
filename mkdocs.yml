@@ -1,5 +1,8 @@
 site_name: Analogue Video Specifications
 site_description: Reference material for analogue television systems and LaserDisc formats.
+site_url: https://decode-orc.github.io/analogue-video-specifications/
+repo_url: https://github.com/decode-orc/analogue-video-specifications
+repo_name: decode-orc/analogue-video-specifications
 theme:
   name: material
   palette:

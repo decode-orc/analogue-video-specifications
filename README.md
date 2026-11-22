@@ -101,6 +101,9 @@ GitHub Actions publishes the site to GitHub Pages on pushes to the `main` branch
 
 ### LaserDisc and Laservision
 
+- [BBC RD 1986/1 - Experiments with digitally mastered LaserVision optical discs](docs/laserdisc/BBC-Experiments_with_digitally_mastered_laservision_optical_discs-1986-01/BBC-Experiments_with_digitally_mastered_laservision_optical_discs-1986-01.md)  
+	BBC Research Department report describing experiments in which digital data (an animated BBC 1 logo sequence and pseudo-random test data) was mastered directly onto a LaserVision disc as NRZ pits and replayed on a modified domestic player. Covers the mastering setup, replay equalisation and pre-amplifier modifications, measured packing density, error-burst statistics and Reed-Solomon correction overhead, and estimates achievable data rates (up to ~50 Mbit/s) and capacity (~9 Gbyte per side).
+
 - [IEC 60856:1986 - Laservision PAL](docs/laserdisc/IEC-60856-1986-Laservision-PAL/IEC-60856-1986-Laservision-PAL.md)  
 	Base mechanical, optical, and operational specification for prerecorded reflective optical videodiscs in the Laservision system. Covers 50 Hz, 625-line PAL-compatible LaserDisc media.
 

@@ -122,6 +122,9 @@ GitHub Actions publishes the site to GitHub Pages on pushes to the `main` branch
 - [IEC 60857:1986 Amendment 2 - Laservision NTSC](docs/laserdisc/IEC-60857-1986-Laservision-NTSC-Amendment-2/IEC-60857-1986-Laservision-NTSC-Amendment-2.md)  
 	Updates NTSC Laservision mechanical and optical requirements and adds provisions related to digital audio implementation. Covers NTSC LaserDisc disc construction and extended format details.
 
+- [Isailović (1985) - Videodisc and Optical Memory Systems](docs/laserdisc/Videodisc-and-Optical-Memory-Systems/Videodisc-and-Optical-Memory-Systems.md)  
+	Prentice-Hall textbook by Dr. Jordan Isailović covering the theory and technology of videodisc and optical data storage systems. Covers optical and capacitive disc recording and mastering, optical and capacitive pickup playback (including MTF compensation, time-base error and player servo systems), fundamentals of geometrical, wave and Fourier optics, videodisc channel noise and dropout characterization, and optical memories (recording media, antireflection structures and recording codes), with mathematical appendices and a full index.
+
 - [US 4,485,483 - FM stereophonic system incorporating companding of difference signal](docs/laserdisc/US4485483-2-FM-Stereophonic-System-Incorporating-Companding-of-Difference-Signal/us4485483.md)  
 	Patent describing an FM stereophonic broadcasting system in which the L-R difference signal is compressed and carried on a quadrature-phased subcarrier alongside the conventional difference signal, then complementarily expanded at the receiver. Covers the composite baseband arrangement, transmitter and receiver block diagrams, and the resulting signal-to-noise and coverage improvements, while remaining compatible with existing monophonic and biphonic receivers.
 

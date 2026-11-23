@@ -45,6 +45,7 @@ Use the navigation to browse the available specifications by document family.
 - [IEC 60857:1986 - Laservision NTSC](laserdisc/IEC-60857-1986-Laservision-NTSC/IEC-60857-1986-Laservision-NTSC.md)
 - [IEC 60857:1986 Amendment 1 - Laservision NTSC](laserdisc/IEC-60857-1986-Laservision-NTSC-Amendment-1/IEC-60857-1986-Laservision-NTSC-Amendment-1.md)
 - [IEC 60857:1986 Amendment 2 - Laservision NTSC](laserdisc/IEC-60857-1986-Laservision-NTSC-Amendment-2/IEC-60857-1986-Laservision-NTSC-Amendment-2.md)
+- [Isailović (1985) - Videodisc and Optical Memory Systems](laserdisc/Videodisc-and-Optical-Memory-Systems/Videodisc-and-Optical-Memory-Systems.md)
 - [US 4,485,483 - FM stereophonic system incorporating companding of difference signal](laserdisc/US4485483-2-FM-Stereophonic-System-Incorporating-Companding-of-Difference-Signal/us4485483.md)
 
 ### Compact Disc
